@@ -295,14 +295,14 @@
         "name": "🔵 玩偶",
         "type": 3,
         "api": "./wogg_open.js",
-        "ext": "填入token"
+        "ext": "d772a32ef8ab45bd936386b42c75582d"
     },
     {
         "key": "玩偶表哥",
         "name": "🔵 表哥",
         "type": 3,
         "api": "./wobg_open.js",
-        "ext": "填入token"
+        "ext": "d772a32ef8ab45bd936386b42c75582d"
     },
     {
          "key": "火狐影视",
